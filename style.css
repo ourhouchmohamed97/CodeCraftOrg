@@ -174,7 +174,7 @@ h1 {
 .email-input {
   flex: 1;
   min-width: 200px;
-  padding: 12px 15px;
+  padding: 5px 15px;
   border: none;
   border-radius: 5px;
   font-size: 1rem;
